@@ -396,6 +396,7 @@ body {
     overflow-x: hidden;
     -webkit-transition: all .4s ease-in-out;
     transition: all .4s ease-in-out;
+    padding-top:20px;
   }
   .header-wrapper .header-inner-wrapper .navbar.active {
     left: 0;
